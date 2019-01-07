@@ -20,4 +20,17 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/java/lib</name>
+			<type>2</type>
+			<locationURI>HoltALibrary/src/main/java/lib</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>HoltALibrary</name>
+			<value>$%7BPARENT-1-PROJECT_LOC%7D/ScratchPad/HoltALibrary</value>
+		</variable>
+	</variableList>
 </projectDescription>
